@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BagetTeam
 - 👀 I’m interested in girls
-- 🌱 I’m currently learning about female genitals
+- 🌱 :)
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me : add me on Discord ()
 
