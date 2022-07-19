@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BagetTeam
 - 👀 I’m interested in girls
 - 🌱 :)
-- 💞️ I’m looking to collaborate 
+- 🤝 I’m looking to collaborate 
 - 📫 How to reach me : add me on Discord ()
 
 <!---
