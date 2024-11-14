@@ -1,16 +1,28 @@
-## Hi there 👋
+Hello, I’m Ewen
 
-<!--
-**BagetTeam/BagetTeam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently a Software Engineer at McGill University, and I am passionate about software development. I mostly do Leetcode and occasionally develop games, but I'm always open to learning new technologies.
 
-Here are some ideas to get you started:
+🛠 My Languages & Tools
+🌐 Back-End 🌐
+     MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎨 Front-End 🎨
+      React
+
+📚 Full-Stack 📚
+    JavaScript; Vite
+
+📝 Scripting 📝
+		Python; Powershell
+
+🏃‍♂️‍➡️ Operating Systems & Prototyping Platforms 🏃‍♂️‍➡️
+		Arduino; Raspberry PI
+
+📑 IDEs 📑
+   	VS Code; Visual Studio; Arduino IDE
+
+📱 Application Development 📱
+    Java; C++; C#
+
+🎈 Other Languages & Frameworks 🎈
+		Godot; GDScripts
