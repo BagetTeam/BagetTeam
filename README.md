@@ -7,7 +7,7 @@ I am currently a Software Engineer at McGill University, and I am passionate abo
      MySQL
 
 🎨 Front-End 🎨
-      React
+      React; 
 
 📚 Full-Stack 📚
     JavaScript; Vite
