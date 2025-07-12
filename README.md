@@ -7,10 +7,10 @@ I am currently a Software Engineer at McGill University. I mostly do Leetcode an
      MySQL
 
 🎨 Front-End 🎨
-      React; 
+      React; NextJS
 
 📚 Full-Stack 📚
-    JavaScript; Vite
+    Typescript; JavaScript; Vite
 
 📝 Scripting 📝
 		Python; Powershell
