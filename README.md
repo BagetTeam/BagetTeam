@@ -4,7 +4,7 @@ I am currently a Software Engineer at McGill University. I mostly do Leetcode an
 
 🛠 My Languages & Tools
 🌐 Back-End 🌐
-     MySQL
+     MySQL; DOT NET Signal R
 
 🎨 Front-End 🎨
       React; NextJS
@@ -16,13 +16,13 @@ I am currently a Software Engineer at McGill University. I mostly do Leetcode an
 		Python; Powershell
 
 🏃‍♂️‍➡️ Operating Systems & Prototyping Platforms 🏃‍♂️‍➡️
-		Arduino; Raspberry PI
+		Arduino; Raspberry PI; Banani PI
 
 📑 IDEs 📑
    	VS Code; Visual Studio; Arduino IDE
 
 📱 Application Development 📱
-    Java; C++; C#
+    Java; C/C++; C#; Dart
 
 🎈 Other Languages & Frameworks 🎈
 		Godot; GDScripts
