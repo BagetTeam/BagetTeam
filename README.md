@@ -4,13 +4,10 @@ I am currently a Software Engineer at McGill University. I mostly do Leetcode an
 
 🛠 My Languages & Tools
 🌐 Back-End 🌐
-     MySQL; DOT NET Signal R
-
-🎨 Front-End 🎨
-      React; NextJS
+     MySQL; PostgreSQL; DOT NET Signal R
 
 📚 Full-Stack 📚
-    Typescript; JavaScript; Vite
+    Typescript; JavaScript; Tailwind CSS; PHP; React; NextJS; Vite
 
 📝 Scripting 📝
 		Python; Powershell
