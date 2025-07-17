@@ -36,8 +36,6 @@ I am currently a Software Engineer at McGill University. I mostly do Leetcode an
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,godot" />
 </p>
 
-<hr>
-
 ## ⚡️ Stats
 
 <br>
