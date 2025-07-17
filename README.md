@@ -25,5 +25,5 @@ I am currently a Software Engineer at McGill University. I mostly do Leetcode an
 		Godot; GDScripts
 <div align="center"> 
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
+  <img src="https://profile-counter.glitch.me/BagetTeam/count.svg" alt="Visitor's Count" />
 </div>
