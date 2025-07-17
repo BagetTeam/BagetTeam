@@ -27,7 +27,7 @@ I am currently a Software Engineer at McGill University. I mostly do Leetcode an
 
 ### 📱 Useful tools 📱
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,mysql,postgres,supbase,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=git,mysql,postgres,supabase,vscode,visualstudio" />
 </p>
 
 ### 🏃‍♂️‍➡️ Operating Systems & Prototyping Platforms 🏃‍♂️‍➡️
