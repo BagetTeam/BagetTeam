@@ -38,6 +38,17 @@ I am currently a Software Engineer at McGill University. I mostly do Leetcode an
 
 <hr>
 
+## ⚡️ Stats
+
+<br>
+
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=BagetTeam&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="BagetTeam's GitHub Stats" />
+  <img width=250 src="https://github-readme-stats.vercel.app/api/top-langs?username=BagetTeam&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="BagetTeam's Most Used Languages" />
+</div>
+
+<hr>
+
 #### Am i famous yet?
 ![](https://komarev.com/ghpvc/?username=BagetTeam&color=green&style=for-the-badge)
 
