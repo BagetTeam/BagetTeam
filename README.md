@@ -23,3 +23,7 @@ I am currently a Software Engineer at McGill University. I mostly do Leetcode an
 
 🎈 Other Languages & Frameworks 🎈
 		Godot; GDScripts
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
+</div>
