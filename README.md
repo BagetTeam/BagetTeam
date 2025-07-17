@@ -38,9 +38,7 @@ I am currently a Software Engineer at McGill University. I mostly do Leetcode an
 
 <hr>
 
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/BagetTeam/count.svg" alt="Visitor's Count" />
-</div>
+#### Am i famous yet?
+![](https://komarev.com/ghpvc/?username=BagetTeam&color=green&style=for-the-badge)
 
 <hr>
