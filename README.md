@@ -52,10 +52,9 @@ I am currently a Software Engineer at McGill University. I mostly do Leetcode an
 ### 🏃‍♂️‍➡️ Operating Systems & Prototyping Platforms 🏃‍♂️‍➡️
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,godot" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" target="_blank" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" target="_blank" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" target="_blank" />
+  <!-- <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,godot" /> -->
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" target="_blank" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" target="_blank" />
   <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white" target="_blank" />
 </p>
 
