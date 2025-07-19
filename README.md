@@ -40,7 +40,7 @@ I am currently a Software Engineer at McGill University. I mostly do Leetcode an
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" target="_blank" />
 </p>
 
-### 📱 Useful tools 📱
+### 📱 Database & Version Control 📱
 <p align="left">
   <!-- <img src="https://skillicons.dev/icons?i=git,mysql,postgres,supabase,vscode,visualstudio" /> -->
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" target="_blank" />
