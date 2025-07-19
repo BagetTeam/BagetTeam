@@ -18,6 +18,7 @@ I am currently a Software Engineer at McGill University. I mostly do Leetcode an
 ### 🌐 Programming Languages 🌐
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,py,c,cpp,cs,php,js,ts,dart" />
+  
 </p>
 
 ### 📚 Full-Stack 📚
@@ -27,13 +28,21 @@ I am currently a Software Engineer at McGill University. I mostly do Leetcode an
 
 ### 📱 Useful tools 📱
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,mysql,postgres,supabase,vscode,visualstudio" />
+  <!-- <img src="https://skillicons.dev/icons?i=git,mysql,postgres,supabase,vscode,visualstudio" /> -->
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" target="_blank" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" target="_blank" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" target="_blank" />
+  <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" target="_blank" />
 </p>
 
 ### 🏃‍♂️‍➡️ Operating Systems & Prototyping Platforms 🏃‍♂️‍➡️
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,godot" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" target="_blank" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" target="_blank" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" target="_blank" />
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white" target="_blank" />
 </p>
 
 ## ⚡️ Stats
