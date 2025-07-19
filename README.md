@@ -17,7 +17,7 @@ I am currently a Software Engineer at McGill University. I mostly do Leetcode an
 
 ### 🌐 Programming Languages 🌐
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,py,c,cpp,cs,php,js,ts,dart" />
+  <!-- <img src="https://skillicons.dev/icons?i=java,py,c,cpp,cs,php,js,ts,dart" /> -->
   <img src="" target="_blank" />
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" target="_blank" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" target="_blank" />
@@ -25,6 +25,7 @@ I am currently a Software Engineer at McGill University. I mostly do Leetcode an
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" target="_blank" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" target="_blank" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" target="_blank" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" target="_blank" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" target="_blank" />
 </p>
 
