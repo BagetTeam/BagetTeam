@@ -18,12 +18,24 @@ I am currently a Software Engineer at McGill University. I mostly do Leetcode an
 ### 🌐 Programming Languages 🌐
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,py,c,cpp,cs,php,js,ts,dart" />
-  
+  <img src="" target="_blank" />
+  <img src="" target="_blank" />
+  <img src="" target="_blank" />
+  <img src="" target="_blank" />
+  <img src="" target="_blank" />
+  <img src="" target="_blank" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" target="_blank" />
 </p>
 
 ### 📚 Full-Stack 📚
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,dotnet,html,css,tailwind,vue" />
+  <!-- <img src="https://skillicons.dev/icons?i=react,nextjs,dotnet,html,css,tailwind,vue" /> -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank" />
+  <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" target="_blank" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" target="_blank" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" target="_blank" />
 </p>
 
 ### 📱 Useful tools 📱
