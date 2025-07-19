@@ -18,7 +18,7 @@ I am currently a Software Engineer at McGill University. I mostly do Leetcode an
 ### 🌐 Programming Languages 🌐
 <p align="left">
   <!-- <img src="https://skillicons.dev/icons?i=java,py,c,cpp,cs,php,js,ts,dart" /> -->
-  <img src="" target="_blank" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" target="_blank" />
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" target="_blank" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" target="_blank" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" target="_blank" />
