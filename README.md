@@ -75,6 +75,10 @@ I am currently a Software Engineer at McGill University. I mostly do Leetcode an
   <img width=250 src="https://github-readme-stats.vercel.app/api/top-langs?username=BagetTeam&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="BagetTeam's Most Used Languages" />
 </div>
 -->
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=BagetTeam&show_icons=true&theme=onedark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=BagetTeam&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
 <hr>
 
 #### Am i famous yet?
