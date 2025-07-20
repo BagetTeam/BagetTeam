@@ -85,15 +85,21 @@ I am currently a Software Engineer at McGill University. I mostly do Leetcode an
     </picture>
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BagetTeam&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=onedark" />
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs?username=BagetTeam&layout=compact&langs_count=8&card_width=340&show_icons=true&theme=onedark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs?username=BagetTeam&layout=compact&langs_count=8&card_width=340&show_icons=true&theme=default"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api?username=BagetTeam&show_icons=true" />
+    </picture>
   </a>
 </div>
 
-<br>
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=BagetTeam&show_icons=true&theme=onedark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=BagetTeam&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BagetTeam&layout=compact)
 <hr>
 
 #### Am i famous yet?
