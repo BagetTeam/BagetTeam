@@ -72,10 +72,20 @@ I am currently a Software Engineer at McGill University. I mostly do Leetcode an
 
 <div align=left>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=BagetTeam" />
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=BagetTeam&show_icons=true&theme=onedark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=BagetTeam&show_icons=true&theme=default"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api?username=BagetTeam&show_icons=true" />
+    </picture>
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BagetTeam&layout=compact&langs_count=8&card_width=320" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BagetTeam&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=onedark" />
   </a>
 </div>
 
