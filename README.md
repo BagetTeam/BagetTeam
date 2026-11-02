@@ -8,7 +8,7 @@ I also have a cool portfolio I think, so check it out.
 https://www.ewen.gg
 
 
-## Contact me
+## 🤙 Contact me
 Reach me on LinkedIn if you want to do something together, maybe a cool project.
 
 <hr>
